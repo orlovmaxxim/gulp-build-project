@@ -1,0 +1,26 @@
+{
+  "name": "my-gulp-build-project",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Orlov Max",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.9.3",
+    "gulp-load-plugins": "1.0.0",
+    "require-dir": "^0.3.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-css-url-adjuster": "^0.2.3",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-prettify": "^0.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "main-bower-files": "^2.9.0"
+  }
+}
