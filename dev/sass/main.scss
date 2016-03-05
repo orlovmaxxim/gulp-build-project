@@ -1,0 +1,15 @@
+//@import "compass";
+
+/*--------------adjustment------------*/
+
+//@import "_layout/normalize";
+//@import "_layout/adjustment";
+
+// main.scss
+@import '_base/_glob';
+@import '_utils/_glob';
+@import '_layout/_glob';
+@import '_pages/_glob';
+@import '_components/_glob';
+@import '_themes/_glob';
+@import '_vendors/_glob';
