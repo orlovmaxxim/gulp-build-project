@@ -38,7 +38,5 @@ gulp.task('watch', function () {
   gulp.watch(paths.scss.occurrence, ['sass']);
   gulp.watch('./app/img/**/*', ['img']);
   gulp.watch('./app/libs/**/*', ['libs']);
-  gulp.watch([
-    './app/**/*.html'
-  ]).on('change', browserSync.reload);
+  gulp.watch(paths.browserSync.watch).on('change', browserSync.reload);
 });
