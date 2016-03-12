@@ -1,0 +1,45 @@
+/* --------- adjustment --------- */
+
+html {
+	width: 100%;
+	font-size: 100.01%;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none outside none;
+
+	li {
+		padding: 0;
+		left: 0;
+	}
+}
+
+p {
+	padding: 0;
+	margin: 0;
+  font-size: 1em;
+  line-height: 1.4em;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
